@@ -4,13 +4,11 @@ function addElementToBeginningOfArray(Mars_Bar, Hersheys) {
   return [Hersheys, ...Mars_Bar];
 }
 
-function destructivelyAddElementToBeginningOfArray(Mars_Bar, Hersheys) {
-  Mars_Bar.unshift(Hersheys);
-  return Mars_Bar
+function destructivelyAddElementToBeginningOfArray(C1, C2) {
+  C1.unshift(C2);
+  return C1
 }
 
 function addElementToEndOfArray(Kisses, Ghirardelli) {
   return [...Kisses, Ghirardelli];
 }
-
-function 
