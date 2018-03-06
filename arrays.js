@@ -1,4 +1,5 @@
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
 
-function addElementToBeginningOfArray(parameter1, parameter2)
+function addElementToBeginningOfArray(p1, p2)
+  return p1, p2
 
