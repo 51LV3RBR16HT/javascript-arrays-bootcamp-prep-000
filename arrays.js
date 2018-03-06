@@ -30,5 +30,4 @@ function removeElementFromBeginningOfArray(Mr_Goodbar) {
   Mr_Goodbar.slice(1)
 }
 
-function 
 
