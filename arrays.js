@@ -13,4 +13,7 @@ function addElementToEndOfArray(Kisses, Ghirardelli) {
   return [...Kisses, Ghirardelli];
 }
 
-function destructivelyAddElementToEndOfArray(Cadbury, )
+function destructivelyAddElementToEndOfArray(Cadbury, Crunch) {
+  Cadbury.push(Crunch);
+  return Cadbury
+}
