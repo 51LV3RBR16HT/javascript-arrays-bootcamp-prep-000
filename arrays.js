@@ -18,9 +18,10 @@ function destructivelyAddElementToEndOfArray(Cadbury, Crunch) {
   return Cadbury
 }
 
-function accessElementInArray(Dove, ) {
-  return array[index];
+function accessElementInArray(Dove, Galaxy) {
+  return Dove[Galaxy];
 }
+
 
 
 
