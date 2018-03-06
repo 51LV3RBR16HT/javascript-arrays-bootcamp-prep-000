@@ -30,5 +30,7 @@ function removeElementFromBeginningOfArray(Mr_Goodbar) {
   return Mr_Goodbar.slice(1)
 }
 
-function destructivelyRemoveElementFromEndOfArray()
+function destructivelyRemoveElementFromEndOfArray(Rolos) {
+  
+}
 
