@@ -31,6 +31,7 @@ function removeElementFromBeginningOfArray(Mr_Goodbar) {
 }
 
 function destructivelyRemoveElementFromEndOfArray(Rolos) {
-  
+  return Rolos.pop()
 }
+
 
