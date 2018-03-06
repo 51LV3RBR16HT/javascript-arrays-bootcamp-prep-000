@@ -5,5 +5,5 @@ function addElementToBeginningOfArray(Mars_Bar, Hersheys) {
 }
 
 function destructivelyAddElementToEndOfArray(Mars_Bar, Hersheys) {
-  
+  Hersheys.unshift 
 }
