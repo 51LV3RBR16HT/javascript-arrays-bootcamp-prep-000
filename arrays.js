@@ -4,4 +4,6 @@ function addElementToBeginningOfArray(Mars_Bar, Hersheys) {
   return [Hersheys, ...Mars_Bar];
 }
 
-function destructivelyAddElementToEndOfArray(Mounds, )
+function destructivelyAddElementToEndOfArray(Mars_Bar, Hersheys) {
+  
+}
