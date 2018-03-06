@@ -26,7 +26,9 @@ function destructivelyRemoveElementFromBeginningOfArray(Milky_Way) { Milky_Way.s
 return Milky_Way
 }
 
-function removeElementFromBeginningOfArray()
+function removeElementFromBeginningOfArray(Mr_Goodbar) {
+  
+}
 
 
 
