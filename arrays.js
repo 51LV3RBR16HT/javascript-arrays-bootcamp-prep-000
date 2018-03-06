@@ -18,4 +18,8 @@ function destructivelyAddElementToEndOfArray(Cadbury, Crunch) {
   return Cadbury
 }
 
-function 
+function accessElementInArray()
+
+
+
+
