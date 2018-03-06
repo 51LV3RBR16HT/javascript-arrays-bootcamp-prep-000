@@ -22,14 +22,7 @@ function accessElementInArray(Dove, Galaxy) {
   return Dove[Galaxy];
 }
 
-function destructivelyRemoveElementFromBeginningOfArray(Milky_Way) Milky_Way
-  
-  
-  
-  
-  
-  
-  
+function destructivelyRemoveElementFromBeginningOfArray(Milky_Way) { Milky_Way.shift()
 }
 
 
