@@ -23,9 +23,5 @@ function accessElementInArray(Dove, Galaxy) {
 }
 
 function destructivelyRemoveElementFromBeginningOfArray(Milky_Way) { Milky_Way.shift()
-
+return Milky_Way
 }
-
-
-
-
