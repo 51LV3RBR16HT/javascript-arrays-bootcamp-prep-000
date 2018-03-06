@@ -40,6 +40,7 @@ function removeElementFromEndOfArray(Starbar) {
  return Starbar
 }
 
+function 
 
 
 
