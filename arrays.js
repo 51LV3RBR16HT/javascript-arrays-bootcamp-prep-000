@@ -12,3 +12,5 @@ function destructivelyAddElementToBeginningOfArray(BonBons, Butterfinger) {
 function addElementToEndOfArray(Kisses, Ghirardelli) {
   return [...Kisses, Ghirardelli];
 }
+
+function destructivelyAddElementToEndOfArray()
