@@ -8,4 +8,3 @@ function destructivelyAddElementToEndOfArray(Mars_Bar, Hersheys) {
   Mars_Bar.unshift(Hersheys)
   return Mars_Bar
 }
-
