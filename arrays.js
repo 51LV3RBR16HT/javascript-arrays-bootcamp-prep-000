@@ -9,5 +9,6 @@ function destructivelyAddElementToBeginningOfArray(Mars_Bar, Hersheys) {
   return Mars_Bar
 }
 
-function addElementToEndOfArray(Kisses, )
-
+function addElementToEndOfArray(Kisses, Ghirardelli) {
+  return [...Ghirardelli, Kisses];
+}
