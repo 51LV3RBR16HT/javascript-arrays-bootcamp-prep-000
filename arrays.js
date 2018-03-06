@@ -27,7 +27,7 @@ return Milky_Way
 }
 
 function removeElementFromBeginningOfArray(Mr_Goodbar) {
-  Mr_Goodbar.slice(1)
+  return Mr_Goodbar.slice(1)
 }
 
 
