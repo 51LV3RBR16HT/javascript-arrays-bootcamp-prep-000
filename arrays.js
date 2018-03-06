@@ -35,7 +35,7 @@ function destructivelyRemoveElementFromEndOfArray(Rolos) {
   return Rolos
 }
 
-function 
+function removeElementFromEndOfArray()
 
 
 
