@@ -36,6 +36,7 @@ function destructivelyRemoveElementFromEndOfArray(Rolos) {
 }
 
 function removeElementFromEndOfArray(Starbar) {
- Starbar.slice(1)
+ Starbar.slice(0)
  return Starbar
 }
+
