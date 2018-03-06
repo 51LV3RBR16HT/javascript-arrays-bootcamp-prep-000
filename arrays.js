@@ -8,6 +8,3 @@ function destructivelyAddElementToEndOfArray(array, element) {
   array.unshift(element);
   return array
 }
-
-
-
